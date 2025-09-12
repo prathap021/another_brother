@@ -146,3 +146,6 @@
 
 ## 2.2.3
 - Addresses old analysis warning.
+
+## 2.2.4
+- Adds 16KB support for Android. Special thanks to swapnilparmar-git for the change.
